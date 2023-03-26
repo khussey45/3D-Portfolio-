@@ -42,19 +42,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: " Full Stack ",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Blockchain ",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: " AR/3-D ",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "AI",
       icon: creator,
     },
   ];
@@ -72,18 +72,18 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
+    // {
+    //   name: "TypeScript",
+    //   icon: typescript,
+    // },
     {
       name: "React JS",
       icon: reactjs,
     },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
+    // {
+    //   name: "Redux Toolkit",
+    //   icon: redux,
+    // },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -108,10 +108,10 @@ import {
       name: "figma",
       icon: figma,
     },
-    {
-      name: "docker",
-      icon: docker,
-    },
+    // {
+    //   name: "docker",
+    //   icon: docker,
+    // },
   ];
   
   const experiences = [
